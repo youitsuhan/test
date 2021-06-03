@@ -1,0 +1,21 @@
+.test{
+width: 1000px;
+text-align: center;
+padding: 100px;
+background-color: aqua;
+p{
+    font-size: 45px;
+}
+h1{
+    font-size: 45px;
+}
+.ttt{
+    &tt{
+        background-color: blue;
+
+    }
+}
+
+
+
+}
